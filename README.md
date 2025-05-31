@@ -1,4 +1,4 @@
-# 📞 Voicemail Urgency Detection (WIP)
+# Voicemail Urgency Detection
 
 This is a work-in-progress project for detecting urgency levels in voicemail transcriptions using natural language processing (NLP). The goal is to build a backend service that classifies voicemails as **urgent** or **non-urgent**, helping streamline response prioritization in customer support.
 
@@ -10,6 +10,12 @@ This is a work-in-progress project for detecting urgency levels in voicemail tra
 - Analyze transcriptions using NLP to detect urgency.
 - Train a custom model with Google Vertex AI.
 - Build an API endpoint using Flask or FastAPI to serve predictions.
+
+---
+
+## 🧠 Why I am building this?
+
+This project was inspired by the need to triage customer voicemails quickly and efficiently in IT service environments especially **after work hours**.
 
 ---
 
@@ -42,11 +48,6 @@ This is a work-in-progress project for detecting urgency levels in voicemail tra
 
 ---
 
-## 🧠 Inspiration
-
-This project was inspired by the need to triage customer voicemails quickly and efficiently in IT service environments.
-
----
 
 ## 📌 Note
 
