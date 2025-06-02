@@ -25,8 +25,8 @@ This project was inspired by the need to triage customer voicemails quickly and 
 - [x] Google NLP tried (results not useful)
 - [x] Decided to train a custom model on Vertex AI
 - [x] Dataset preparation with real-world voicemail samples
-- [ ] Model training (in progress)
-- [ ] API development
+- [x] Model training 
+- [ ] API development (in progress)
 - [ ] Deployment
 
 ---
@@ -42,8 +42,8 @@ This project was inspired by the need to triage customer voicemails quickly and 
 
 ## 📝 Future Improvements
 
-- Use more advanced NLP (e.g., transformers like BERT).
 - Integrate frontend dashboard for message review.
+- Use more advanced NLP (e.g., transformers like BERT).
 - Improve dataset with more dataset
 
 ---
