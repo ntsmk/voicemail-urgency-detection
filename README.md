@@ -4,7 +4,7 @@ This is a work-in-progress project for detecting urgency levels in voicemail tra
 
 ---
 
-## 🚀 Objectives
+## 🚀 What is this?
 
 - Convert voicemails to text using Google Speech-to-Text (or existing transcripts).
 - Analyze transcriptions using NLP to detect urgency.
