@@ -8,7 +8,7 @@ This is a work-in-progress project for detecting urgency levels in voicemail tra
 
 - Convert voicemails to text using Google Speech-to-Text (or existing transcripts).
 - Analyze transcriptions using NLP to detect urgency.
-- Train a custom model with Google Vertex AI.
+- Fine-tune a machine learning model with Google Vertex AI.
 - Build an API endpoint using Flask or FastAPI to serve predictions.
 
 ---
