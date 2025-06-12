@@ -26,8 +26,8 @@ This project was inspired by the need to triage customer voicemails quickly and 
 - [x] Decided to fine tune the machine learning model on Vertex AI
 - [x] Dataset preparation with real-world voicemail samples. Manually labeling for all voicemai records.
 - [x] Model fine-tuning 
-- [ ] API development (in progress)
-- [ ] Deployment
+- [x] API development 
+- [ ] Deployment (in progress)
 
 ---
 
