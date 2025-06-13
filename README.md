@@ -40,7 +40,7 @@ This project was inspired by the need to triage customer voicemails quickly and 
 
 - Integrate frontend dashboard for message review.
 - Use more advanced NLP (e.g., transformers like BERT).
-- Improve dataset with more dataset
+- Improve dataset with more sample data.
 
 ---
 
