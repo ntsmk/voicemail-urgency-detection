@@ -33,6 +33,8 @@ This project was inspired by the need to triage customer voicemails quickly and 
 - Python
 - Google Cloud Vertex AI
 - Google Cloud NLP (initially)
+- Docker
+- Google Cloud Run
 
 ---
 
