@@ -6,7 +6,7 @@ This is a work-in-progress project for detecting urgency levels in voicemail tra
 
 ## 🚀 What is this?
 
-- Analyze voicemail transcriptions using NLP to detect urgency.
+- Analyze voicemail transcriptions using machine learning to detect urgency.
 - Fine-tune a machine learning model with Google Vertex AI for more acurate detection.
 
 ---
